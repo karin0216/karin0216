@@ -1,7 +1,7 @@
 ### Hello👩🏻‍💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karin0216&show_icons=true&theme=buefy) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karin0216&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karin0216&show_icons=true&theme=material-palenight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karin0216&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
