@@ -1,8 +1,20 @@
-### Hello, I'm Karin Umehara👩🏻‍💻
+### Hello, I'm Karin Umehara!
+
+- 📈 I'm a software engineer with a background in marketing 
+- 👩🏻‍💻 Currently learning JavaScript, Node.js, Ruby(Ruby on Rails
+- 😄 Pronouns:She/Her
+- ⚡ Fun fact: Love traveling ✈️, running🏃🏻‍♀️, and watching Netflix 🎬
+
+#### Technologies I have experienced
+**Strong:**
+JavaScript, NodeJS, Express, GraphQL, Postgresql, HTML&CSS, React, Redux
+
+**Experienced:**
+Ruby, Ruby on Rails, MongoDB, mongoose, TypeORM, Knex, Vue
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=karin0216&show_icons=true&theme=material-palenight" />
-  <img alt="Top lang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karin0216&layout=compact&theme=material-palenight" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=karin0216&show_icons=true&theme=material-palenight" />
+  <img alt="Top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karin0216&layout=compact&theme=material-palenight" />
 </p>
 
 <!--
