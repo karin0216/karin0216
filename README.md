@@ -7,7 +7,7 @@
 
 #### Technologies I have experienced
 **Strong:**
-JavaScript, NodeJS, Express, GraphQL, Postgresql, HTML&CSS, React, Redux
+JavaScript, Node.js, Express, GraphQL, Postgresql, HTML&CSS, React, Redux
 
 **Experienced:**
 Ruby, Ruby on Rails, MongoDB, mongoose, TypeScript, TypeORM, Knex, Vue
