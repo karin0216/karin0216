@@ -1,7 +1,7 @@
-### Hello, I'm Karin Umehara!
+### Hello, I'm Karin!
 
 - 📈 I'm a software engineer with a background in marketing 
-- 👩🏻‍💻 Currently learning JavaScript, React, Redux, Node.js
+- 👩🏻‍💻 Currently learning Rails, React, and TypeScript
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact: Love traveling ✈️, running🏃🏻‍♀️, and watching Netflix 🎬
 
