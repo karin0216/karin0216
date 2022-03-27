@@ -1,16 +1,4 @@
-### Hello, I'm Karin!
-
-- 📈 I'm a software engineer with a background in marketing 
-- 👩🏻‍💻 Currently learning Rails, React, and TypeScript
-- 😄 Pronouns:She/Her
-- ⚡ Fun fact: Love traveling ✈️, running🏃🏻‍♀️, and watching Netflix 🎬
-
-#### Technologies I have experienced
-**Strong:**
-JavaScript, Node.js, Express, GraphQL, Postgresql, HTML&CSS, React, Redux
-
-**Experienced:**
-Ruby, Ruby on Rails, MongoDB, mongoose, TypeScript, TypeORM, Knex, Vue
+### Hi, I'm Karin
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=karin0216&show_icons=true&theme=material-palenight" />
